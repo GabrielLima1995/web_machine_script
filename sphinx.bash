@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo apt-get install pandoc 
 sudo apt-get install python3-sphinx
 sudo -H pip install sphinx-autobuild
